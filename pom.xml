@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url></url>http://192.168.5.130:8081/repository/abc_release/</url>
+            <url>http://192.168.5.130:8081/repository/abc_release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-          <url>/</url>http://192.168.5.130:8081/repository/abc_sanpshort/</url>
+          <url>http://192.168.5.130:8081/repository/abc_sanpshort/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
